@@ -82,7 +82,7 @@ pkg install tsu -y || pkg install sudo -y
 ````
 
 ```bash
-git clone https://github.com/anbuinfosec/wipwn
+git clone https://github.com/minhdongdasat1987/wipwn.git
 cd wipwn
 chmod +x main.py
 ```
